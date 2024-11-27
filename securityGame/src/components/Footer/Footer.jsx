@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaWhatsapp, FaFacebook, FaInstagram, FaLinkedin } from 'react-icons/fa';
-import ContactForm from '../Header/ContactForm';
+import ContactForm from './ContactForm';
 
 function Footer() {
   return (
@@ -24,7 +24,7 @@ function Footer() {
                 <FaWhatsapp className="mr-2 text-2xl" />
                 ¡Contáctanos por WhatsApp!
               </a>
-              <p className="mt-2 text-gray-400">Resolvemos tus dudas en minutos</p>
+              <p className="mt-2 text-gray-400">Resolvemos tus dudas en minutos.</p>
             </div>
 
             <div className="text-center">

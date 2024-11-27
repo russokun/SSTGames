@@ -23,6 +23,13 @@ const reviews = [
     image: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI1MCIgZmlsbD0iI2YzZjRmNiIvPjx0ZXh0IHg9IjUwIiB5PSI1MCIgZm9udC1mYW1pbHk9IkFyaWFsIiBmb250LXNpemU9IjIwIiBmaWxsPSIjOWNhM2FmIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSI+TVM8L3RleHQ+PC9zdmc+',
     text: 'Los empleados están más comprometidos con la seguridad desde que implementamos SSTGames.',
     role: 'Coordinadora de SST'
+  },
+  {
+    id: 4,
+    name: 'Juan Pérez',
+    image: 'data:image/svg+xml;base64,PHN2ZyB3aWR',
+    text: 'La plataforma de SSTGames ha sido una excelente inversión para nuestra empresa.',
+    role: 'Gerente General'
   }
 ];
 
